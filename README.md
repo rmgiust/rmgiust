@@ -1,6 +1,5 @@
 print ( Hey! I'm Roni Giust )
 
-- 👨‍💻 Looking for an internship in Software Development
 - 🎓 Studying Analysis and Systems Development at <a href="https://www.unip.br/" target="_blank" rel="nofollow">UNIP</a> (2024 - 2026).
 - 🌐 Completing the Back-End Developer Professional Certificate by Meta on <a href="https://www.coursera.org/" target="_blank" rel="nofollow"> Coursera</a> (02/2025 - 06/2025).
 
