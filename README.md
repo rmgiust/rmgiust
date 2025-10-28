@@ -1,10 +1,10 @@
 print ( Hey! I'm Roni Giust )
 
 - 🎓 Studying Analysis and Systems Development at <a href="https://www.unip.br/" target="_blank" rel="nofollow">UNIP</a> (2024 - 2027).
-- 🌐 Completing the Front-End Developer Professional Certificate by Meta on <a href="https://www.coursera.org/" target="_blank" rel="nofollow">.
+- 🌐 Studying the Front-End Developer Professional Certificate by Meta on <a href="https://www.coursera.org/" target="_blank" rel="nofollow">Coursera</a>
 
 
->[![My Skills](https://skillicons.dev/icons?i=py,js,bootstrap,c,cs,html,css,vscode)](https://skillicons.dev)
+>[![My Skills](https://skillicons.dev/icons?i=js,c,cs,html,css,react,vscode)](https://skillicons.dev)
 
 
 <div> 
