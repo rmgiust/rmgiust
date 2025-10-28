@@ -1,17 +1,37 @@
-print ( Hey! I'm Roni Giust )
+### Olá, eu sou o Roni 👋
 
-- 🎓 Studying Analysis and Systems Development at <a href="https://www.unip.br/" target="_blank" rel="nofollow">UNIP</a> (2024 - 2027).
-- 🌐 Studying the Front-End Developer Professional Certificate by Meta on <a href="https://www.coursera.org/" target="_blank" rel="nofollow">Coursera</a>
+Sou um desenvolvedor Front-End em formação, focado em construir interfaces de usuário eficientes e agradáveis.
 
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na [UNIP](https://www.unip.br/) (2024 - 2027).
+- 🚀 Atualmente focado no **[Meta Front-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-front-end-developer)** via Coursera, aprimorando minhas habilidades em React e JavaScript moderno.
 
->[![My Skills](https://skillicons.dev/icons?i=js,c,cs,html,css,react,vscode)](https://skillicons.dev)
+---
 
+### 🛠️ Minhas Ferramentas e Tecnologias
 
-<div> 
-  
-  <a href="https://www.linkedin.com/in/rmgiust" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:rmgiust@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/rmgiust" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <img align="right" alt="Roni-code" src="https://cdn.discordapp.com/attachments/1331709169044164628/1344064602027196526/giphy_1.gif?ex=67bf8d34&is=67be3bb4&hm=1ff98aaaf4a7d6bef5b15069ae6b25f196f3c270ddae5077ace4f78a29ed044d&">
-  
-</div>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,git,vscode,figma" />
+  </a>
+</p>
+
+---
+
+### 📫 Como me encontrar
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/rmgiust" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:rmgiust@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white" alt="Email">
+  </a>
+</p>
+
+---
+
+### 📊 Minhas Estatísticas no GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Roni" />
+</p>
