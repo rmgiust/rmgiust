@@ -33,5 +33,5 @@ Sou um desenvolvedor Front-End em formação, focado em construir interfaces de 
 ### 📊 Minhas Estatísticas no GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rmgiust&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Roni" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rmgiust&show_icons=true&theme=dracula&include_all_commits=true" alt="Estatísticas do GitHub de Roni" />
 </p>
