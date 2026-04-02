@@ -1,37 +1,56 @@
-### Olá, eu sou o Roni 👋
+### 👋 Olá, eu sou o Roni
 
-Sou um desenvolvedor Front-End em formação, focado em construir interfaces de usuário eficientes e agradáveis.
+🎮 Game Developer em formação, focado em C++ e Unreal Engine.
 
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na [UNIP](https://www.unip.br/) (2024 - 2027).
-- 🚀 Atualmente focado no **[Meta Front-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-front-end-developer)** via Coursera, aprimorando minhas habilidades em React e JavaScript moderno.
+Atualmente curso **Análise e Desenvolvimento de Sistemas (FACENS)** 
+---
+
+### 🚀 
+
+- 🎯 Formação em **Game Design pela Epic Games (Coursera)**
+- 💻 Em breve: **Desenvolvimento de Jogos com C++**
+- 🛠️ Construção de projetos práticos (protótipos e jogos jogáveis)
+- 📚 Estudo contínuo de lógica, sistemas de jogo e arquitetura
 
 ---
 
-### 🛠️ Minhas Ferramentas e Tecnologias
+### 🧠 Tecnologias e Ferramentas
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,git,vscode,figma" />
+    <img src="https://skillicons.dev/icons?i=cpp,unreal,git,github,vscode" />
   </a>
 </p>
 
 ---
 
-### 📫 Como me encontrar
+### 🎮 Projetos
+
+> Em construção — acompanhando minha evolução como Game Developer.
+
+Aqui você encontrará:
+- Protótipos de jogos
+- Mecânicas isoladas
+- Projetos completos com Unreal Engine
+- Código estruturado com boas práticas
+
+---
+
+### 📫 Contato
 
 <p align="left">
   <a href="https://www.linkedin.com/in/rmgiust" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:rmgiust@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=flat&logo=microsoft-outlook&logoColor=white" alt="Email">
   </a>
 </p>
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rmgiust&show_icons=true&theme=dracula&include_all_commits=true" alt="Estatísticas do GitHub de Roni" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rmgiust&show_icons=true&theme=dracula&include_all_commits=true" />
 </p>
