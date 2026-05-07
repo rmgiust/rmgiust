@@ -1,24 +1,30 @@
-👋 Olá, eu sou o Roni
+🚀 QA Automation Engineer (In Training) | Engenheiro de Automação de QA
+👋 Hello, I'm Roni Machado Giust | Olá, sou o Roni
+EN: I am a Quality Assurance professional focused on software testing, bug analysis, and quality standards. Currently, I am deeply specializing in QA Automation to transform manual processes into scalable, high-performance test suites.
 
-Quality Assurance em desenvolvimento, com foco em testes de software, análise de falhas e garantia de qualidade em aplicações.
+PT: Sou um profissional de Quality Assurance focado em testes de software, análise de falhas e padrões de qualidade. Atualmente, estou me especializando profundamente em Automação de QA para transformar processos manuais em suítes de testes escaláveis e de alta performance.
 
-Atualmente cursando Análise e Desenvolvimento de Sistemas (FACENS) e aprofundando conhecimentos em QA.
+🛠️ Tech Stack & Skills | Tecnologias e Habilidades
+Core Focus (The "Farm" Stack):
 
-🚀 Atuação
-🧪 Testes manuais (funcional, regressão, exploratório)
-🐞 Documentação de bugs clara e reproduzível
-📋 Criação de test cases e cenários de teste
-🔎 Análise de comportamento de sistemas e identificação de falhas
-⚙️ Em evolução
-Testes de API (Postman)
-Versionamento com Git
-Automação de testes 
-🧠 Ferramentas
-<p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=git,github,vscode" /> </a> </p>
-📂 Repositórios
+Languages: TypeScript (Primary), JavaScript.
 
-Repositórios focados em prática real de QA, incluindo testes, documentação e análise de sistemas.
+Automation: Playwright & Cypress.
 
+Methodologies: E2E Testing, Page Object Model (POM), Bug Lifecycle.
+
+QA Skills:
+
+🧪 Manual Testing: Functional, Regression, and Exploratory testing.
+
+📋 Documentation: Clear bug reports, test cases, and test scenarios.
+
+⚙️ Tools: Git, GitHub, VS Code, Postman (API Testing).
+
+🧠 Tools | Ferramentas
+📂 Portfólio / Projects
+EN: Check out my /Projects folder to see real-world automation scripts using TypeScript.
+PT: Confira minha pasta /Projects para ver scripts de automação reais utilizando TypeScript.
 
 
 📫 Contato
