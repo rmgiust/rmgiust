@@ -1,5 +1,7 @@
-🚀 QA Automation Engineer (In Training) | Engenheiro de Automação de QA
+#🚀 QA Automation Engineer (In Training) | Engenheiro de Automação de QA
+
 👋 Hello, I'm Roni Machado Giust | Olá, sou o Roni
+
 EN: I am a Quality Assurance professional focused on software testing, bug analysis, and quality standards. Currently, I am deeply specializing in QA Automation to transform manual processes into scalable, high-performance test suites.
 
 PT: Sou um profissional de Quality Assurance focado em testes de software, análise de falhas e padrões de qualidade. Atualmente, estou me especializando profundamente em Automação de QA para transformar processos manuais em suítes de testes escaláveis e de alta performance.
