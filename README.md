@@ -9,9 +9,9 @@ PT: Sou um profissional de Quality Assurance focado em testes de software, anál
 🛠️ Tech Stack & Skills | Tecnologias e Habilidades
 Core Focus (The "Farm" Stack):
 
-Languages: TypeScript (Primary), JavaScript.
+Languages: JavaScript.
 
-Automation: Playwright & Cypress.
+Automation: Cypress.
 
 Methodologies: E2E Testing, Page Object Model (POM), Bug Lifecycle.
 
@@ -25,8 +25,8 @@ QA Skills:
 
 🧠 Tools | Ferramentas
 📂 Portfólio / Projects
-EN: Check out my /Projects folder to see real-world automation scripts using TypeScript.
-PT: Confira minha pasta /Projects para ver scripts de automação reais utilizando TypeScript.
+EN: Check out my /Projects folder to see real-world automation scripts using JavaScript and Typescript.
+PT: Confira minha pasta /Projects para ver scripts de automação reais utilizando JavaScript and Typescript.
 
 
 📫 Contato
