@@ -25,8 +25,8 @@ QA Skills:
 
 🧠 Tools | Ferramentas
 📂 Portfólio / Projects
-EN: Check out my /Projects folder to see real-world automation scripts using JavaScript and Typescript.
-PT: Confira minha pasta /Projects para ver scripts de automação reais utilizando JavaScript and Typescript.
+EN: Check out my /Projects folder to see real-world automation scripts using JS & TS.
+PT: Confira minha pasta /Projects para ver scripts de automação reais utilizando JS & TS.
 
 
 📫 Contato
