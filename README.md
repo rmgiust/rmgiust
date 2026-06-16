@@ -23,11 +23,6 @@ QA Skills:
 
 ⚙️ Tools: Git, GitHub, VS Code, Postman (API Testing).
 
-🧠 Tools | Ferramentas
-📂 Portfólio / Projects
-EN: Check out my /Projects folder to see real-world automation scripts using JS & TS.
-PT: Confira minha pasta /Projects para ver scripts de automação reais utilizando JS & TS.
-
 
 📫 Contato
 <p align="left"> <a href="https://www.linkedin.com/in/rmgiust" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="mailto:rmgiust@outlook.com" target="_blank"> <img src="https://img.shields.io/badge/Email-0078D4?style=flat&logo=microsoft-outlook&logoColor=white" alt="Email"> </a> </p>
