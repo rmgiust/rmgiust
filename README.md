@@ -1,28 +1,35 @@
-#🚀 QA Automation Engineer (In Training) | Engenheiro de Automação de QA
+# Eai! eu sou o Roni 😎
 
-👋 Hello, I'm Roni Machado Giust | Olá, sou o Roni
+**QA Automation Engineer** focado em elevar a qualidade de software através de automação estratégica, processos ágeis e cultura DevOps. Acredito que qualidade é um processo de engenharia contínuo, não apenas uma etapa final.
 
-EN: I am a Quality Assurance professional focused on software testing, bug analysis, and quality standards. Currently, I am deeply specializing in QA Automation to transform manual processes into scalable, high-performance test suites.
+---
 
-PT: Sou um profissional de Quality Assurance focado em testes de software, análise de falhas e padrões de qualidade. Atualmente, estou me especializando profundamente em Automação de QA para transformar processos manuais em suítes de testes escaláveis e de alta performance.
+### 🛠️ Tech Stack & Ferramentas
+*Domínio técnico aplicado em projetos reais:*
 
-🛠️ Tech Stack & Skills | Tecnologias e Habilidades
-Core Focus (The "Farm" Stack):
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-Languages: JavaScript.
+---
 
-Automation: Cypress.
+### 🎯 Foco Profissional
+* **Automação E2E:** Desenvolvimento de suítes robustas com Page Objects Pattern (POM) e foco em testes resilientes.
+* **Testes de API:** Validação de contratos, automação dinâmica com massa de dados aleatória e foco em qualidade de back-end.
+* **DevOps & CI/CD:** Integração de testes no fluxo de CI, garantindo feedback rápido e Quality Gates.
+* **Estratégia de QA:** Mapeamento de métricas, Definição de DoD e planos de mitigação de riscos.
 
-Methodologies: E2E Testing, Page Object Model (POM), Bug Lifecycle.
+---
 
-QA Skills:
+### 🔗 Acesse meu portfólio completo
+[![Portfolio](https://img.shields.io/badge/Ver_Meu_Portfólio_Técnico-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rmgiust/qa-portfolio)
 
-🧪 Manual Testing: Functional, Regression, and Exploratory testing.
+---
+---
 
-📋 Documentation: Clear bug reports, test cases, and test scenarios.
+### 📈 Conecte-se comigo
 
-⚙️ Tools: Git, GitHub, VS Code, Postman (API Testing).
-
-
-📫 Contato
-<p align="left"> <a href="https://www.linkedin.com/in/rmgiust" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="mailto:rmgiust@outlook.com" target="_blank"> <img src="https://img.shields.io/badge/Email-0078D4?style=flat&logo=microsoft-outlook&logoColor=white" alt="Email"> </a> </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_AQUI)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rmgiust)
